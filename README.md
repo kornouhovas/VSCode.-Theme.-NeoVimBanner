@@ -9,7 +9,3 @@ NeoVimBanner emphasizes clean, “airy” readability: lines don’t blur togeth
 ## Credits
 
 Developed with the help of Codex by OpenAI.
-
-## Development
-
-Open this folder in VS Code and press `F5` to launch the Extension Development Host, then select `NeoVimBanner` in the theme picker.
